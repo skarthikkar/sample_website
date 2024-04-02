@@ -1,0 +1,1 @@
+This is a sample website, contains websites with responsive designs.
